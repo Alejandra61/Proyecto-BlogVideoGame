@@ -4,8 +4,8 @@ const Footer = () => {
   return (
     <footer>
       <div>
-        <div className="social">
-        <i class="fa fa-instagram"></i>
+        <div className="social">       
+        <i class="fab fa-instagram"></i>
             <h4>icons</h4>
         </div>
         <div className="copyringht">

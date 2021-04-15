@@ -11,7 +11,7 @@ const Cards = () => {
         <div >
             <NavarHeader className="icon" />
             <Content />
-            <Text text="hola a todos" />
+            <Text/>
             <Footer />
         </div>
     )

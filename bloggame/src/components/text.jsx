@@ -1,10 +1,10 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 
-const Text = (props) => {
+const Text = () => {
     return(
-        <Fragment>
-            <h4>{props.text}</h4>
-        </Fragment>
+        <>
+            <h4 classNamee="text-title">hola</h4>
+        </>
     )
 }
 export default Text;
